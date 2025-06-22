@@ -28,8 +28,8 @@ A minimalist, homemade **To-Do List** web application built with **Flask** and *
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/todo-web-app.git
-cd todo-web-app
+git clone https://github.com/C5rsdMat1X5/to-do-list-app
+cd to-do-list-app
 
 # Install Python dependencies
 pip install -r requirements.txt
